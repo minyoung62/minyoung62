@@ -32,7 +32,8 @@
 <div align="center">
   Etc
   <br>
-  <img src="https://img.shields.io/badge/Google Cloud-orange?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntellJ IDEA IDE-000000?style=for-the-badge&logo=intellj-idea IDE&logoColor=white"/>
@@ -42,9 +43,12 @@
 <hr>
 
 <div align="center">
+  
 ![minyoung62's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyoung62&show_icons=true&theme=radical)
+  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnd05106)](https://solved.ac/tnd05106)
+  
 </div>
 
 
