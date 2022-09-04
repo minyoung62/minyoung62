@@ -32,8 +32,8 @@
 <div align="center">
   Etc
   <br>
+  <img src="https://img.shields.io/badge/Google Cloud-orange?style=for-the-badge&logo=google-cloud&logoColor=white"/>
    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
- 
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntellJ IDEA IDE-000000?style=for-the-badge&logo=intellj-idea IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/VScode-white?style=for-the-badge&logo=Visual Studio&logoColor=blue"/>
