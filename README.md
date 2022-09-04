@@ -3,9 +3,8 @@
 </div>
 <div>
 
-
 </div>
-<h2 align="center">💪Skills💻</h2>
+<h2 align="center">💪Skills & Tools</h2>
 <div align="center">
   Languages
   <br>
